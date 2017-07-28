@@ -1,0 +1,60 @@
+.row {
+    margin: 0;
+    padding: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    background-color:white;
+}
+
+@media screen and (max-width: 1200px) {
+    .face {display: none}
+}
+
+.sectiontitle {
+    margin-left: 0em;
+    padding-left: 1em;
+    font-size: 2em;
+}
+
+.pagebody {
+    font-size: 1.2em;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+.section {
+    padding-top: 3em;
+}
+
+.footer {
+    padding-bottom: 10em;
+}
+
+.resume {
+    background-color:white;
+}
+
+.resumetag {
+    font-weight: bold;
+}
+
+.resumeitem {
+    list-style-type: none;
+}
+
+.resumeright {
+    float:right;
+}
+
+.contact {
+    padding-bottom: 1.5em;
+}
+
+.spacetest {
+    background-color: red;
+    vertical-align: middle;
+}
